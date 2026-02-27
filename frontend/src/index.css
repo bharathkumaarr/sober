@@ -3,7 +3,7 @@
 
 /* design tokens */
 @theme {
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-sans: 'JetBrains Mono', 'Fira Code', monospace;
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
 
   --color-bg-body: #0b0b0b;
